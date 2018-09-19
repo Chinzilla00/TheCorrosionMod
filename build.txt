@@ -1,0 +1,12 @@
+author = Chinzilla00
+
+version = 1.0.0.0
+displayName = The Corrosion Mod
+homepage = https://github.com/Chinzilla00/TheCorrosionMod
+
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+
+includePDB = true
