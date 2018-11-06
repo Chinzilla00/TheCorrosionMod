@@ -10,3 +10,5 @@ includeSource = true
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
 
 includePDB = true
+
+modReferences = TerrariaHooks
